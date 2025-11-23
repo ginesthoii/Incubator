@@ -1,2 +1,2 @@
 # Incubator
-> Incubator Using Arduino with Automatic Temperature and Humidity control
+> Incubator Using ESP32 with Automatic Temperature and Humidity control
